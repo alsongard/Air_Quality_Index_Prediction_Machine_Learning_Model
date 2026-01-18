@@ -1,7 +1,7 @@
-# AIR QUALITY DYNAMICS
-
+# Air Quality Index Prediction Model 
 ## Description
-This repository will be used to analyze the different levels of air pollution in different countries and later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
+This machine learning project focuses on predicting the Air Quality Index (AQI) based on concentrations of various air pollutants. The model analyzes how different pollutants affect overall air quality and provides accurate AQI predictions using a Decision Tree learning algorithm.
+Later on, if hospital data is available for repository diseases led from air pollution, i will identify patterns and interesting relationships between the level of air pollution and repository diseases.  
 
 # Table of Contents
 1. [Installation](#installation)
